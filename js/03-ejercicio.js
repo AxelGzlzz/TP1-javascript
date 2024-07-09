@@ -1,0 +1,1 @@
+ document.write("el resultado de la sumar 3+5 es: " + (3+5));
