@@ -11,6 +11,9 @@ Output: El 210 es divisible por 2, por 3, por 5 y por 7.
  */
 
 
+// HECHO CON CHAT GPT 
+
+
 // Función para determinar si un número es divisible por otro número
 function esDivisible(numero, divisor) {
     return numero % divisor === 0;
