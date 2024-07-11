@@ -1,3 +1,17 @@
+/*
+
+7.- Escribe un programa que pida 3 números y escriba en la pantalla el mayor de los tres.
+Ejemplo: 
+
+input: 15 , 3, 9
+
+
+Output: El 15 es el número más grande
+
+
+
+*/
+
 const numero1 =parseInt(prompt("ingrese el primer numero "));
 const numero2 =parseInt(prompt("ingrese el segundo numero "));
 const numero3 =parseInt(prompt("ingrese el tercer numero "));
